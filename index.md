@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my personal GitHub!
 
-I'm glad you are here. I plan to talk about ...
+This will present some stuff someday.
